@@ -20,7 +20,7 @@ Car Sales Assignment
 
 **useful links**
 - [Google classroom assignment](https://classroom.google.com/u/2/c/MTUyNDEzODk2OTkw/a/MTUyNDEzODk3MDQz/details)
-- [Flowchart Design software](draw.io)
+- [Flowchart Design software](https://app.diagrams.net/)
 
 **Gantt Chart Esq progress tracker**
 <p>22/10/2020: Started on the logic of the program to plan out and start on the flowchart</p>
