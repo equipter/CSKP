@@ -23,4 +23,4 @@ Car Sales Assignment
 [Flowchart Design software](draw.io)
 
 **Gantt Chart Esq progress tracker**
-* 22/10/2020: Started on the logic of the program to plan out and start on the flowchart 
+\n 22/10/2020: Started on the logic of the program to plan out and start on the flowchart 
