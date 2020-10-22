@@ -19,8 +19,8 @@ Car Sales Assignment
 * activity5evaluation_[Registration number]_[surname]_[first letter of first name] as a PDF.
 
 **useful links**
-[Google classroom assignment](https://classroom.google.com/u/2/c/MTUyNDEzODk2OTkw/a/MTUyNDEzODk3MDQz/details)
-[Flowchart Design software](draw.io)
+<p>[Google classroom assignment](https://classroom.google.com/u/2/c/MTUyNDEzODk2OTkw/a/MTUyNDEzODk3MDQz/details)</p>
+<p>[Flowchart Design software](draw.io)</p>
 
 **Gantt Chart Esq progress tracker**
 <p>22/10/2020: Started on the logic of the program to plan out and start on the flowchart</p>
